@@ -1,0 +1,24 @@
+{
+  "exampleApp": {
+    "tODO": {
+      "home": {
+        "title": "TODOS",
+        "createLabel": "Создать новый TODO",
+        "createOrEditLabel": "Создать или отредактировать TODO",
+        "notFound": "No TODOS found"
+      },
+      "created": "Новый TODO создан с идентификатором {{ param }}",
+      "updated": "TODO обновлен с идентификатором {{ param }}",
+      "deleted": "TODO удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить TODO {{ id }}?"
+      },
+      "detail": {
+        "title": "TODO"
+      },
+      "name": "Name",
+      "number": "Number",
+      "date": "Date"
+    }
+  }
+}

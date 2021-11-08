@@ -1,0 +1,6 @@
+entity TODO {
+	name String required,
+    number Integer required,
+    date Instant required
+}
+
